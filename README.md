@@ -2,9 +2,14 @@
 
 ![alt text](https://github.com/farshad991/YoutuPot/blob/main/assets/YoutuPot%20ss.png?raw=true)
 
-a pot player skin based on Simple Thing skin
+How to Install and Use Skins:
 
-To enable transparency:
-go to preferences > General > Skin Advanced - and set Method to Direct3D11Mode and Opacity about 85%
+    Extract the archive and place the skin files in the application's Skins folder.
+
+    Go to Preferences > Skins and select one of the installed skins.
+
+To Enable Transparency:
+
+Go to Preferences > General > Skin Advanced, then set the Method to Direct3D11Mode and the Opacity to approximately 85%.
 
 ![alt text](https://github.com/farshad991/YoutuPot/blob/main/assets/YoutuPot%20help.png?raw=true)
