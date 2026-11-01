@@ -1,5 +1,7 @@
 # YoutuPot
 
+YoutuPot is a modern PotPlayer skin inspired by the YouTube player. It comes in dark and light themes, with optional gradient and frameless variants.
+
 ![alt text](https://github.com/farshad991/YoutuPot/blob/main/assets/YoutuPot%20ss.png?raw=true)
 
 How to Install and Use Skins:
